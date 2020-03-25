@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=cprMYC8PCVY&feature=youtu.be
+
+instalar o node.js - a partir de pacotes de instala��o
+utilizando chocolatey 
+npm install express
+
+instalar o insomnia
+
+instalar o nodemon dentro da pasta da app (npm nodemon -D)
+
+usar o Knex,js pra query builder
+    para startar o knex - npx knex init

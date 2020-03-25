@@ -1,0 +1,37 @@
+
+/**
+ * Rotas / Recursos
+ */
+
+
+ /**
+  * Métodos HTTP:
+  * 
+  * GET: buscar/listar uma informação do backend
+  * POST: criar uma informação no backend
+  * PUT: alterar uma informação no backend
+  * DELET: deletar uma informação no backend
+  */
+
+  /**
+   * Tipos de parâmetros
+   * 
+   * Query Params: parâmetros nomeados enviados na rota após "?" (filtros, paginação)
+   *    acessando o query params - const params = request.query;
+   * 
+   * Route Params: parâmetros uilizados para identificar recursos ('/users:id')
+   *    acessando route params - app.get('/users/:id', (request, response) => {const id = request.params})
+   * 
+   * Request Body: corpo da requisição, utilizado para criar ou alterar recursos
+   *    trabalhando com o request body - const body = request.body
+   */
+
+ /**
+  * SQL - MySql, SQLite, Postgress
+  * NoSQL - MongoDB, etc. 
+  */
+
+  /**
+   * Driver: SELECT * FROM users
+   * Query Builder: table('users').select('*').where()
+   */
