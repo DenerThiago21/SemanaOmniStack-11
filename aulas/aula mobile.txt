@@ -1,0 +1,14 @@
+intalar o expo:
+npm install -g expo-cli
+
+instalar o react navigation 
+npm install @react-navigation/native
+
+instalar as dependencias caso estiver utilizando com o expo
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+rodar o comando (navegação por buttons)
+npm install @react-navigation/stack
+
+instalar pacotes:
+expo intall expo-constants

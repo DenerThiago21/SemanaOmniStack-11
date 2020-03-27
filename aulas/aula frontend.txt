@@ -3,3 +3,6 @@ para criar rotas dentro do front instalar o pacote:
 
 ir até a pasta backend via terminal e executar:
 	npm start
+
+executar dentro do editor:
+	npm install axios
