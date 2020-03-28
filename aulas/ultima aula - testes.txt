@@ -1,0 +1,18 @@
+intalar a biblioteca celebrate 
+npm install celebrate
+
+instalação do jest (framework para aplicar testes)
+npm install jest
+
+após isso na raíz do project executar
+npx jest --init
+
+para executar o test
+npm test
+
+para executar testes de integração 
+instalar:
+npm install cross-env
+
+instalar a bibliotecar supertest
+npm install supertest -D

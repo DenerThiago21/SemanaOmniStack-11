@@ -12,3 +12,9 @@ npm install @react-navigation/stack
 
 instalar pacotes:
 expo intall expo-constants
+
+instalar o axios para linkar com o backend
+npm install axios
+
+instalar o intl para trabalhar com formatação de valores
+
